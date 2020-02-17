@@ -31,7 +31,7 @@ public class QueueMemberStatusEvent extends QueueMemberEvent
 
     private String ringinuse;
     private String iface;
-
+ 
     /**
      * @param source
      */
